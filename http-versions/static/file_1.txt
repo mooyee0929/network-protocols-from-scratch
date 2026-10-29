@@ -1,0 +1,36 @@
+Sample Document
+
+This is a sample text file used as a transfer payload for the HTTP client and
+server demos in this repository. The server lists the files in the static
+directory, picks a few of them, and streams them to the client, which saves the
+downloaded copies into the target directory. The actual contents of this file do
+not matter to the demo; any reasonably sized text works.
+
+Section 1
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vel nunc eget
+massa viverra bibendum. Integer non lacus quis justo tincidunt vehicula. Sed
+porttitor, augue a porttitor finibus, sapien turpis fermentum lorem, a dignissim
+massa risus a velit. Vivamus sit amet consequat nunc. Nulla facilisi.
+
+Section 2
+
+Mauris vitae ultricies leo. Phasellus vehicula, risus id rhoncus porttitor,
+turpis arcu porttitor nibh, non tempus justo urna in erat. Curabitur ac felis a
+mi dignissim pretium. Donec vitae velit non justo porta commodo. Aliquam erat
+volutpat. Suspendisse potenti.
+
+Section 3
+
+Nam fringilla, nulla non laoreet feugiat, ex metus efficitur nisl, a lacinia
+nibh massa non arcu. Proin tristique, lectus a feugiat volutpat, risus sapien
+congue urna, eget tempus massa justo vel dui. Fusce dictum, nunc non placerat
+laoreet, lacus lorem commodo mauris, non luctus augue justo id elit.
+
+Section 4
+
+Etiam ut sem a nisi aliquet rhoncus. Vestibulum ante ipsum primis in faucibus
+orci luctus et ultrices posuere cubilia curae; Integer euismod, arcu a ultrices
+tincidunt, lorem nunc rutrum urna, id luctus lacus nibh non massa. Praesent
+efficitur, nibh a porta dignissim, lectus risus volutpat velit, a dictum massa
+justo vel sapien. Quisque vitae tristique nulla.
